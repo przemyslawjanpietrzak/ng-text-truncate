@@ -1,0 +1,19 @@
+{
+  "name": "ng-text-truncate",
+  "version": "1.0.0",
+  "description": "ng-text-truncate ================",
+  "main": "ng-text-truncate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przemyslawjanpietrzak/ng-text-truncate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/przemyslawjanpietrzak/ng-text-truncate/issues"
+  },
+  "homepage": "https://github.com/przemyslawjanpietrzak/ng-text-truncate#readme"
+}
